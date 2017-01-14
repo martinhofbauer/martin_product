@@ -6,8 +6,7 @@ public class Product
 
 		public Product(String name)
 	{
-		super();
-		setName (name);
+		setName ("Coca Cola");
 	}
 
 	public String getName()
